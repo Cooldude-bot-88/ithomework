@@ -1,0 +1,25 @@
+git init
+
+git config --global user.name 'Your Name'
+git config --global user.email 'youremail@gmail.com'
+
+
+git status
+
+
+git add .
+
+
+git status
+
+git commit -m "Initial Commit"
+
+
+git status
+
+git add .
+git commit -m "Changed resources.txt"
+git status
+
+
+git log
